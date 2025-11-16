@@ -1,26 +1,41 @@
+coding plan
+claude code
+codex
+
+智谱
+zai
+z.ai
+glm coding plan
+glm coding
+glm 4.6
+glm 4.5
+glm 4.5-air
+glm 4.6-air
+
+chatgpt
+gpt
+openai
+sora
+codex
+
+claude
+Anthropic
+claude code
+roo code
+kilo code
+cline
+
+doubao
+seed
+seed-code
+qwen
+qwen coder
+
 DeepSeek
-梁文锋
+kimi
+minimax
 
-智元
-灵犀
-稚晖君
-彭志辉
-
-字节
-bytedance
-张一鸣
-梁汝波
-谢欣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
 NVIDIA
-黄仁勋
 
 AMD
 
@@ -29,28 +44,8 @@ google
 gemini
 deepmind
 
-chatgpt
-openai
-sora
-codex
-
-claude
-Anthropic
-claude code
-
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
 agi
 
-
-智谱
-zai
-z.ai
-coding plan
-glm coding plan

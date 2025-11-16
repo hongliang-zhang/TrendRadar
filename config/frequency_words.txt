@@ -37,15 +37,4 @@ minimax
 
 NVIDIA
 
-AMD
-
-谷歌
-google
 gemini
-deepmind
-
-ai
-!gai
-人工智能
-agi
-
